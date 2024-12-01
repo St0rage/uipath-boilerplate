@@ -1,0 +1,10 @@
+﻿{
+	"ProjectName" : "Uipath-Orange",
+	"Activity" : "Scripting Phase Report",
+	"Tool" : "UiPath",
+	"Author" : "AUTOMATION_TEAM",
+	"BaseUrl" : "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login",
+	"TarsUrl" : "http://localhost:7000/",
+	"ScreenshotPath" : "C:\\orange-screenshot\\",
+	"UseReport": "Y"
+}
